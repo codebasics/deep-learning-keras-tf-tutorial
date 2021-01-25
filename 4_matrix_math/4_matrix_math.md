@@ -7,7 +7,7 @@
 
 ![](flowers.jpg)
 
-[Click here for solution of 1 and 2](https://github.com/codebasics/py/tree/master/DeepLearningML/4_matrix_math/4_matrix_math_exercise_solution.ipynb)
+[Click here for solution of 1 and 2](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/main/4_matrix_math/4_matrix_math_exercise_solution.ipynb)
 
 3. Here is some matrix exercise from mathisfun.com. Please click on a link below and do the exercise.
 
