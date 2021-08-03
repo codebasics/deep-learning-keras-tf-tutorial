@@ -27,7 +27,7 @@ http://localhost:8502/v1/models/email_model/versions/2:predict
 
 To call by labels
 ```
-http://localhost:8502/v1/models/email_model/labels/stable:predict
+http://localhost:8502/v1/models/email_model/labels/beta:predict
 ```
 
 Body: raw

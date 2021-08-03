@@ -5,13 +5,17 @@ model_config_list {
     model_platform: 'tensorflow'
 	model_version_policy {
 	  specific {
+		versions: 1
 		versions: 2
-		versions: 3
 	  }
 	}
 	version_labels {
-	  key: 'stable'
-	  value: 3
+	  key: 'production'
+	  value: 1
+	}
+	version_labels {
+	  key: 'beta'
+	  value: 2
 	}
   }
 }
