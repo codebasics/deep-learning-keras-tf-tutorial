@@ -13,5 +13,7 @@
     1. Once model is built, print classification report and analyze precision, recall and f1-score
     1. Improve f1 score in minority class using various techniques such as undersampling, oversampling, ensemble etc
     
-**I don't have solution link for (2). I might add it in future but for now you try it out on our own. If you have a solution please give me a pull request    
+    [Solution](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/14_imbalanced/Handling%20Imbalanced%20Data%20In%20Customer%20Churn%20Using%20ANN/Bank%20Turnover%20Customer%20Churn%20Using%20ANN.ipynb)
+    
+    Thanks https://github.com/src-sohail for providing this solution.
      
