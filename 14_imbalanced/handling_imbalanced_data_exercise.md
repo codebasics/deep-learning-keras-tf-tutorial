@@ -1,6 +1,6 @@
 #### Exercise: Handling imbalanced data in machine learning
 
-1. Use [this notebook](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/main/13_imbalanced/handling_imbalanced_data.ipynb) but handle imbalanced data using simple logistic regression from skelarn library. The original notebook using neural network but you need to use sklearn logistic regression or any other classification model and improve the f1-score of minority class using,
+1. Use [this notebook](https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/main/14_imbalanced/handling_imbalanced_data.ipynb) but handle imbalanced data using simple logistic regression from skelarn library. The original notebook using neural network but you need to use sklearn logistic regression or any other classification model and improve the f1-score of minority class using,
     1. Undersampling
     1. Oversampling: duplicate copy
     1. OVersampling: SMOT
